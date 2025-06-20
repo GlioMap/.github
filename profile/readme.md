@@ -1,4 +1,4 @@
-![GlioMap banner](https://github.com/GlioMap/.github/blob/0f900bc5123d823f98fb7bd32b02dc9852945301/Slide1.JPG)
+![GlioMap banner](https://github.com/GlioMap/.github/blob/6397e8a2bc074d7af7cf82d5dff8201ec06445c4/Slide.JPG)
 
 <h2>GlioMap:  MATLAB-based GUI for MRI Brain Tumor Segmentation and Feature Extraction</h2>
 
