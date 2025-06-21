@@ -11,17 +11,17 @@ GlioMap is an open-source MATLAB-based software designed for segmenting brain tu
 
 ### ☢️ &nbsp;Main Features
 
-🩻Skull Stripping
+🩻  Skull Stripping
 
-🩻Slice Selection
+🩻  Slice Selection
 
-🩻Segmentation
+🩻  Segmentation
 
-🩻Tumor Masking
+🩻  Tumor Masking
 
-🩻Rdiomic Feature Calculation
+🩻  Rdiomic Feature Calculation
 
-🩻Morphological Feature Calculation
+🩻  Morphological Feature Calculation
 
 
 
